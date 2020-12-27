@@ -26,7 +26,7 @@ SECRET_KEY = 'nbej+n2pq+39dmlhgp%ri1%9j14&vl*5taoy@@48-#c3-icpaq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nazir-app.herokuapp.com']
 
 
 # Application definition
